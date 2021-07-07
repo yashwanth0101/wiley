@@ -23,3 +23,9 @@ public interface BankingSystem {
 	// Gives  the whole information of the Account holder
 
 }
+class Main{
+	public static void main(String args[])
+	{
+		
+	}
+}
